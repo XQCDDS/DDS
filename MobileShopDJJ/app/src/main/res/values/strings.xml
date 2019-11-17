@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileShop DJJ</string>
+    <string name="login">登录</string>
+    <string name="dds">DDS模拟器</string>
+</resources>
